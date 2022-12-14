@@ -16,11 +16,9 @@ Projeto que representa uma plataforma de eventos na qual é possível colocar v�
 ## ✨ Tecnologias
 
 -   [ x ] Typescript
--   [ x ] HTML 5
 -   [ x ] React
 -   [ x ] Vite
--   [ x ] CSS
--   [ x ] Javascript
+-   [ x ] TailwindCSS
 
 ## :hammer_and_wrench: Features 
 

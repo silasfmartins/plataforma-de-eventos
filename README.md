@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Ignite-Lab-React" height="80" title="Plant Manager" src="./src/assets/image.png" />
+  <img alt="Ignite-Lab-React" height="80" title="Plant Manager" src="./src/assets/Plataforma de Eventos.png" />
 </h1>
 
 <p align="center">

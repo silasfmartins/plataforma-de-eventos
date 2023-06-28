@@ -44,7 +44,7 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://ignite-lab-react-iota-azure.vercel.app/ .
+É possível acessar a aplicação através da URL: https://ignite-lab-react-iota-azure.vercel.app .
 
 ## 👨‍💻 Contribuir/Contributing
 
